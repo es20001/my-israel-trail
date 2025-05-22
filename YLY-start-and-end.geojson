@@ -4,25 +4,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Start - Achziv National Park",
+        "name": "Start: Achziv National Park",
         "marker-symbol": "▲",
         "marker-color": "#AC94F4"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [35.1018, 33.0486]
+        "coordinates": [35.1033, 33.0485]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "End - Ginosar",
+        "name": "End: Ginosar Beach",
         "marker-symbol": "◉",
         "marker-color": "#AC94F4"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [35.5234, 32.8614]
+        "coordinates": [35.523152, 32.848666]
       }
     }
   ]
