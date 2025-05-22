@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Start - Achziv National Park",
+        "marker-symbol": "▲",
+        "marker-color": "#AC94F4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.1018, 33.0486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "End - Ginosar",
+        "marker-symbol": "◉",
+        "marker-color": "#AC94F4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.5234, 32.8614]
+      }
+    }
+  ]
+}
