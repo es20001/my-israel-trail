@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Start: Achziv National Park",
-        "marker-symbol": "▲",
+        "marker-symbol": "triangle",
         "marker-color": "#AC94F4"
       },
       "geometry": {
@@ -17,7 +17,7 @@
       "type": "Feature",
       "properties": {
         "name": "End: Ginosar Beach",
-        "marker-symbol": "◉",
+        "marker-symbol": "bullseye",
         "marker-color": "#AC94F4"
       },
       "geometry": {
